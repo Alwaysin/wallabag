@@ -144,7 +144,7 @@ wallabag_core:
             section: misc
         -
             name: download_images_enabled
-            value: 0
+            value: 1
             section: misc
         -
             name: wallabag_support_url
